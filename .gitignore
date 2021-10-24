@@ -1,0 +1,9 @@
+/logs
+/.docker
+/.assets
+/.idea
+/vendor
+Dockerfile
+docker-compose.yml
+Makefile
+.phpunit.result.cache
